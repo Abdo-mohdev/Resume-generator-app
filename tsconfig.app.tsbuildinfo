@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/types.ts","./src/data/seed.ts","./src/lib/firebase.ts","./src/services/authservice.ts","./src/services/billingservice.ts","./src/services/resumerepository.ts","./src/services/templaterepository.ts","./src/store/useresumestore.ts"],"errors":true,"version":"5.9.3"}
