@@ -3,7 +3,4 @@
   "references": [
     { "path": "./tsconfig.app.json" }
   ],
-  "compilerOptions": {
-    "types": ["vite/client"]
-  }
 }
